@@ -15,11 +15,11 @@ Below are some sample results from the implemented algorithms:
 
 | Morphology | Pixel Interpolation | SVD |
 |------------|---------------------|-----|
-|<img width="615" height="200" alt="image" src="https://github.com/user-attachments/assets/40ce0cf1-3de0-479a-b100-9cb471f862a1" /> | <img width="380" height="278" alt="image" src="https://github.com/user-attachments/assets/e19aec3f-1f67-4f3a-95d1-3a5ddb1f9083" /> | <img width="338" height="1000" alt="svd" src="https://github.com/user-attachments/assets/db1a781e-8a58-46c4-a751-c796b0de7558" /> |
+|<img width="615" height="200" alt="image" src="https://github.com/user-attachments/assets/40ce0cf1-3de0-479a-b100-9cb471f862a1" /> | <img width="380" height="278" alt="image" src="https://github.com/user-attachments/assets/e19aec3f-1f67-4f3a-95d1-3a5ddb1f9083" /> | <img width="338" height="1000" alt="image" src="https://github.com/user-attachments/assets/db1a781e-8a58-46c4-a751-c796b0de7558" /> |
 
 | Histogram | Edge Detection |
 |-----------|----------------|
-| <img width="338" height="337" alt="histogram" src="https://github.com/user-attachments/assets/695dd956-4c00-4c5e-8e1f-f61379c273cc" /> | <img width="400" height="355" alt="image" src="https://github.com/user-attachments/assets/85356a03-05ba-4e5b-b88d-d3e5b8779a75" /> |
+| <img width="338" height="337" alt="image" src="https://github.com/user-attachments/assets/695dd956-4c00-4c5e-8e1f-f61379c273cc" /> | <img width="400" height="355" alt="image" src="https://github.com/user-attachments/assets/85356a03-05ba-4e5b-b88d-d3e5b8779a75" /> |
 
 > See more more more examples on **Colab**.
 
